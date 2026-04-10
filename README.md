@@ -30,7 +30,8 @@ Quick Sort is an excellent choice for playlist data because:
 
 ## Demo
 
-![Demo GIF](demo.gif)
+![Working Demo](Demo_1.png)
+![Edge Case Demo](Demo_2.png)
 
 ---
 
